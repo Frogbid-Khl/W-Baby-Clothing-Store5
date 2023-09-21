@@ -1,0 +1,38 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 21 Sep 2023 16:49:46 at https://jthemes.net/themes/html/kidify/index-5.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://jthemes.net/themes/html/kidify/index-5.html -O1 "C:\My Web Sites\baby5" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:51:34	Error: 	"Not Found" (404) at link https://jthemes.net/themes/html/kidify/fleet-list.html (from https://jthemes.net/themes/html/kidify/index-5.html)
+16:51:37	Error: 	"Not Found" (404) at link https://jthemes.net/themes/html/kidify/assets/imgs/theme/favicon.svg (from https://jthemes.net/themes/html/kidify/assets/css/style.css?v=1.0.0)
+16:51:37	Error: 	"Not Found" (404) at link https://jthemes.net/themes/html/kidify/assets/imgs/template/icons/arrow-down.svg (from https://jthemes.net/themes/html/kidify/assets/css/style.css?v=1.0.0)
+16:51:37	Error: 	"Not Found" (404) at link https://jthemes.net/themes/html/kidify/assets/imgs/slider/swiper/dot.svg (from https://jthemes.net/themes/html/kidify/assets/css/style.css?v=1.0.0)
+16:51:37	Error: 	"Not Found" (404) at link https://jthemes.net/themes/html/kidify/assets/imgs/slider/swiper/dot-active.svg (from https://jthemes.net/themes/html/kidify/assets/css/style.css?v=1.0.0)
+16:51:37	Error: 	"Not Found" (404) at link https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage3/address.png (from https://jthemes.net/themes/html/kidify/assets/css/style.css?v=1.0.0)
+16:51:37	Error: 	"Not Found" (404) at link https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage3/time.png (from https://jthemes.net/themes/html/kidify/assets/css/style.css?v=1.0.0)
+16:51:37	Error: 	"Not Found" (404) at link https://jthemes.net/themes/html/kidify/assets/imgs/template/icons/angle-down.svg (from https://jthemes.net/themes/html/kidify/assets/css/style.css?v=1.0.0)
+16:51:37	Error: 	"Not Found" (404) at link https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage1/bg-download.png (from https://jthemes.net/themes/html/kidify/assets/css/style.css?v=1.0.0)
+16:51:37	Error: 	"Not Found" (404) at link https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage1/phone.png (from https://jthemes.net/themes/html/kidify/assets/css/style.css?v=1.0.0)
+16:51:37	Error: 	"Not Found" (404) at link https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage2/bg-download.png (from https://jthemes.net/themes/html/kidify/assets/css/style.css?v=1.0.0)
+16:51:37	Error: 	"Not Found" (404) at link https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage3/bg-download-3.png (from https://jthemes.net/themes/html/kidify/assets/css/style.css?v=1.0.0)
+16:51:37	Error: 	"Not Found" (404) at link https://jthemes.net/themes/html/kidify/assets/imgs/template/icons/fb.png (from https://jthemes.net/themes/html/kidify/assets/css/style.css?v=1.0.0)
+16:51:37	Error: 	"Not Found" (404) at link https://jthemes.net/themes/html/kidify/assets/imgs/template/icons/tw.png (from https://jthemes.net/themes/html/kidify/assets/css/style.css?v=1.0.0)
+16:51:37	Error: 	"Not Found" (404) at link https://jthemes.net/themes/html/kidify/assets/imgs/template/icons/instagram.png (from https://jthemes.net/themes/html/kidify/assets/css/style.css?v=1.0.0)
+16:51:37	Error: 	"Not Found" (404) at link https://jthemes.net/themes/html/kidify/assets/imgs/template/icons/linkedin.png (from https://jthemes.net/themes/html/kidify/assets/css/style.css?v=1.0.0)
+16:51:37	Error: 	"Not Found" (404) at link https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage1/bg-testimonials.png (from https://jthemes.net/themes/html/kidify/assets/css/style.css?v=1.0.0)
+16:51:37	Error: 	"Not Found" (404) at link https://jthemes.net/themes/html/kidify/assets/imgs/page/homepage12/banner.png (from https://jthemes.net/themes/html/kidify/assets/css/style.css?v=1.0.0)
+16:51:37	Error: 	"Not Found" (404) at link https://jthemes.net/themes/html/kidify/assets/imgs/pa(data-wow-delay=".1s")ge/homepage1/product3.png (from https://jthemes.net/themes/html/kidify/index.html)
+16:51:37	Error: 	"Not Found" (404) at link https://jthemes.net/themes/html/kidify/assets/imgs/template/icons/applepay.svg (from https://jthemes.net/themes/html/kidify/index.html)
+16:51:37	Error: 	"Not Found" (404) at link https://jthemes.net/themes/html/kidify/assets/imgs/template/icons/paypal.svg (from https://jthemes.net/themes/html/kidify/index.html)
+16:51:37	Error: 	"Not Found" (404) at link https://jthemes.net/themes/html/kidify/assets/css/plugins/images/ui-icons_444444_256x240.html (from https://jthemes.net/themes/html/kidify/assets/css/plugins/jquery-ui.css)
+16:51:37	Error: 	"Not Found" (404) at link https://jthemes.net/themes/html/kidify/assets/css/plugins/images/ui-icons_555555_256x240.html (from https://jthemes.net/themes/html/kidify/assets/css/plugins/jquery-ui.css)
+16:51:37	Error: 	"Not Found" (404) at link https://jthemes.net/themes/html/kidify/assets/css/plugins/images/ui-icons_ffffff_256x240.html (from https://jthemes.net/themes/html/kidify/assets/css/plugins/jquery-ui.css)
+16:51:37	Error: 	"Not Found" (404) at link https://jthemes.net/themes/html/kidify/assets/css/plugins/images/ui-icons_777620_256x240.html (from https://jthemes.net/themes/html/kidify/assets/css/plugins/jquery-ui.css)
+16:51:37	Error: 	"Not Found" (404) at link https://jthemes.net/themes/html/kidify/assets/css/plugins/images/ui-icons_cc0000_256x240.html (from https://jthemes.net/themes/html/kidify/assets/css/plugins/jquery-ui.css)
+16:51:37	Error: 	"Not Found" (404) at link https://jthemes.net/themes/html/kidify/assets/css/plugins/images/ui-icons_777777_256x240.html (from https://jthemes.net/themes/html/kidify/assets/css/plugins/jquery-ui.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 51 seconds : 447 links scanned, 419 files written (36554885 bytes overall) [33274392 bytes received at 299769 bytes/sec], 4081347 bytes transferred using HTTP compression in 58 files, ratio 15%, 26.2 requests per connection
+(27 errors, 0 warnings, 0 messages)
